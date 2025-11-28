@@ -1,7 +1,7 @@
 ###########################################################################
-# Makefile Created By          Dr. Rashed Z. Bhatti                       #
-# Date Created                 10/18/2007                                 #
-# Last Modified                10/18/2007                                 #
+# Makefile Created By          BIBIN N BIJI                               #
+# Date Created                 28/11/2025                                 #
+# Last Modified                28/11/2025                                 #
 ###########################################################################
 # This is a general purpose makefile to compile and run                   #
 # Cadence NCSIM simulations                                               #
